@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/3D/Downloads/Contacts/app/src/main/res/layout/activity_add_new_contact.xml" value="0.264" />
+        <entry key="..\:/Users/3D/Downloads/Contacts/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/3D/Downloads/Contacts/app/src/main/res/layout/activity_update_contact.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/3D/Downloads/Contacts/app/src/main/res/layout/items.xml" value="0.20599409033347404" />
+        <entry key="..\:/Users/3D/Downloads/Contacts/app/src/main/res/menu/delete_menu.xml" value="0.20863616930312098" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
